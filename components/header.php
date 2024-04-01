@@ -18,7 +18,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                     <div class="logo-area">
                         <div class="logo">
-                            <a href="index.php"><img src="assets/img/logo/logo.svg" alt=""></a>
+                            <a href="index.php"><img src="assets/img/logo/logo_white.svg" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
             <div class="sidebar__content">
                 <div class="sidebar__logo mb-40">
                     <a href="index.php">
-                        <img src="assets/img/logo/logo.svg" alt="logo">
+                        <img src="assets/img/logo/logo_slide.svg" alt="logo">
                     </a>
                 </div>
                 <div class="sidebar__search mb-25">

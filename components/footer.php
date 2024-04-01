@@ -6,7 +6,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4">
                     <div class="footer__widget mb-40">
                         <div class="footer__logo">
-                            <a href="index.php"><img src="assets/img/logo/logo.svg" alt=""></a>
+                            <a href="index.php"><img src="assets/img/logo/logo_white.svg" alt=""></a>
                         </div>
                     </div>
                 </div>
