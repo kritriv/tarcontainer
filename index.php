@@ -15,7 +15,7 @@
                                     <span data-animation="fadeInUp" data-delay=".3s">Container </span>
                                     <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Sites Shed</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                        <a href="services/sites-shed-container.php" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
                                                 class="fal fa-angle-right"></i></a>
                                         <a href="contact.php" class="tp-btn-2">Get Quote</a>
                                     </div>
@@ -35,7 +35,7 @@
                                     <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Shipping
                                         Container</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                        <a href="services/shipping-container.php" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
                                                 class="fal fa-angle-right"></i></a>
                                         <a href="contact.php" class="tp-btn-2">Get Quote</a>
                                     </div>
@@ -127,7 +127,7 @@
                             delivering sustainable and innovative products that exceed industry standards while
                             fostering enduring partnerships worldwide.</p>
                         <div class="ab-button mb-30">
-                            <a href="about.php" class="tp-btn" onclick="showMaintenanceAlert()">Learn More</a>
+                            <a href="#" class="tp-btn" onclick="showMaintenanceAlert()">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -172,7 +172,7 @@
                                     </ul>
                                 </div>
                                 <div class="sr-button">
-                                    <a href="services/sites-shed-container.php" onclick="showMaintenanceAlert()">Many More</a>
+                                    <a href="#" onclick="showMaintenanceAlert()">Many More</a>
                                 </div>
                             </div>
                             <div class="single-services col-md-4">
@@ -188,7 +188,7 @@
                                     </ul>
                                 </div>
                                 <div class="sr-button">
-                                    <a href="services/shipping-container.php" onclick="showMaintenanceAlert()">Many More</a>
+                                    <a href="#" onclick="showMaintenanceAlert()">Many More</a>
                                 </div>
                             </div>
                         </div>
@@ -214,10 +214,10 @@
                                 <div class="slide-border"></div>
                                 <div class="sd-content">
                                     <span class="sd-meta">Industry, Manufacturing</span>
-                                    <h5><a href="portfolio-details.php" onclick="showMaintenanceAlert()">Tar Parking</a></h5>
+                                    <h5><a href="#" onclick="showMaintenanceAlert()">Tar Parking</a></h5>
                                     <div class="project-info">
-                                        <a href="portfolio-details.php" onclick="showMaintenanceAlert()"><i class="fal fa-plus"></i></a>
-                                        <span><a href="portfolio-details.php" onclick="showMaintenanceAlert()">Project Details</a></span>
+                                        <a href="#" onclick="showMaintenanceAlert()"><i class="fal fa-plus"></i></a>
+                                        <span><a href="#" onclick="showMaintenanceAlert()">Project Details</a></span>
                                     </div>
                                     <div class="sd-bg-icon">
                                         <i class="flaticon-industrial"></i>

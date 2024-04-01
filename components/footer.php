@@ -16,10 +16,10 @@
                         <div class="footer__widget-content">
                             <div class="footer__links">
                                 <ul>
-                                    <li><a href="about.php" onclick="showMaintenanceAlert()">Company</a></li>
-                                    <li><a href="our-services.php" onclick="showMaintenanceAlert()">Services</a></li>
-                                    <li><a href="blogs.php" onclick="showMaintenanceAlert()">Our Blog</a></li>
-                                    <li><a href="privacy-policy.php" onclick="showMaintenanceAlert()">Privacy Policy</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Company</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Services</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Our Blog</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Privacy Policy</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -33,8 +33,8 @@
                             <div class="footer__links">
                                 <ul>
                                     <li><a href="contact.php">Get Quote</a></li>
-                                    <li><a href="about-us.php/#mission" onclick="showMaintenanceAlert()">Mission</a></li>
-                                    <li><a href="about-us.php/#vision" onclick="showMaintenanceAlert()">Vision</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Mission</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Vision</a></li>
                                     <li><a href="#testimonial">Testimonials</a></li>
                                 </ul>
                             </div>
@@ -47,8 +47,8 @@
                         <div class="footer__widget-content">
                             <div class="footer__links">
                                 <ul>
-                                    <li><a href="services/sites-shed-container.php" onclick="showMaintenanceAlert()">Sites Shed Container</a></li>
-                                    <li><a href="services/shipping-container.php" onclick="showMaintenanceAlert()">Shipping Container</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Sites Shed Container</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Shipping Container</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                         <div class="footer__copyright-links text-sm-end">
-                            <a href="about.php" onclick="showMaintenanceAlert()">About Us</a>
+                            <a href="#" onclick="showMaintenanceAlert()">About Us</a>
                             <a href="contact.php">Contact </a>
                         </div>
                     </div>

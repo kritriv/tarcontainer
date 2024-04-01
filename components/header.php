@@ -29,10 +29,10 @@
                                 <ul>
                                     <li><a href="index.php">Home</a>
                                     </li>
-                                    <li><a href="about-us.php" onclick="showMaintenanceAlert()">About Us</a></li>
-                                    <li><a href="our-services.php" onclick="showMaintenanceAlert()">Services</a>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">About Us</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Services</a>
                                     </li>
-                                    <li><a href="blog.php" onclick="showMaintenanceAlert()">Blogs</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Blogs</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </nav>
