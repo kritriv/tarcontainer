@@ -4,14 +4,19 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Tar Container - Manufactures of Container Home & Shipping Container </title>
+    <title><?php if(isset($title)){
+            echo $title;  
+            }else{ echo "Tar Container - Manufactures of Container Home & Shipping Container"; } ?></title>
+
+    <link rel="canonical"
+        href="<?php if(isset($current_page_url)){ echo $current_page_url; } else { echo "https://www.tarcontainer.com"; } ?>" />
+
     <meta name="description"
         content="Tar Container - your trusted partner in innovative container solutions. Explore our range of customizable containers designed for efficiency, durability, and sustainability.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords"
         content="container solutions, container manufacturing, sustainable containers, innovative containers, Tar Container, Shail International Group">
-    <link rel="canonical" href="https://www.tarcontainer.com">
-    
+
     <!-- Place favicon.ico in the root directory -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.svg">
 

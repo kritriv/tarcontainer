@@ -1,7 +1,6 @@
-<?php include_once 'components/header.php'; ?>
+<?php $current_page_url="https://www.tarcontainer.com/contact"; $title = 'Tar Container | Contact Us';  include_once 'components/header.php'; ?>
 
 <main>
-
     <!-- slider-area-start  -->
     <section class="page__title-area page__title-height page__title-overlay d-flex align-items-center"
         data-background="assets/img/bg/page-bg.jpg">
