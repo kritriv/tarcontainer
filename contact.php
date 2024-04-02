@@ -123,6 +123,26 @@
                                         </div>
                                     </div>
                                 </div>
+                                <style>
+                                .nice-select,
+                                .nice-select option {
+                                    width: 100% !important;
+                                }
+                                </style>
+                                <div class="col-lg-12 pb-3">
+                                    <div style="width: 100%;">
+                                        <div class="mb-20">
+                                            <label for="product"></label>
+                                            <select id="product" name="product">
+                                                <option value="">Interest Product</option>
+                                                <option value="Container Home">Container Home</option>
+                                                <option value="Office Container">Office Container</option>
+                                                <option value="Shipping Container">Shipping Container</option>
+                                                <option value="Mobile Container">Mobile Container</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="contact-filed contact-icon-message mb-25">
                                     <textarea placeholder="Enter message here" name="message"></textarea>
                                 </div>

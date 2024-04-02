@@ -2,8 +2,8 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = strip_tags(trim($_POST["name"]));
     $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
+    $product = $_POST['product'];
     $message = trim($_POST["message"]);
-
     if (empty($name) || empty($email) || empty($message)) {
         http_response_code(400);
         echo "Please fill out all fields.";
@@ -15,6 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $email_content = "Name: $name\n";
     $email_content .= "Email: $email\n\n";
+    $email_content .= "Interested Product: $product\n\n";
     $email_content .= "Message:\n$message\n";
 
     $email_headers = "From: $name <$email>";
