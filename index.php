@@ -215,7 +215,7 @@
                 <div class="col-xl-6">
                     <div class="services__slider swiper-container">
                         <div class="services__wrapper swiper-wrapper">
-                            <div class="single-services swiper-slide">
+                            <div class="single-services swiper-slide" style="border: 1px solid #F17523;">
                                 <h5>Home Containers</h5>
                                 <div class="services-list pb-10">
                                     <ul>
@@ -229,7 +229,7 @@
                                     <a href="#" onclick="showMaintenanceAlert()">Many More</a>
                                 </div>
                             </div>
-                            <div class="single-services swiper-slide">
+                            <div class="single-services swiper-slide" style="border: 1px solid #F17523;">
                                 <h5>Office Containers</h5>
                                 <div class="services-list pb-10">
                                     <ul>
@@ -245,7 +245,7 @@
                                     <a href="#" onclick="showMaintenanceAlert()">Many More</a>
                                 </div>
                             </div>
-                            <div class="single-services swiper-slide">
+                            <div class="single-services swiper-slide" style="border: 1px solid #F17523;">
                                 <h5>Shipping Containers</h5>
                                 <div class="services-list pb-10">
                                     <ul>
@@ -261,7 +261,7 @@
                                     <a href="#" onclick="showMaintenanceAlert()">Many More</a>
                                 </div>
                             </div>
-                            <div class="single-services swiper-slide">
+                            <div class="single-services swiper-slide" style="border: 1px solid #F17523;">
                                 <h5>Mobile Containers</h5>
                                 <div class="services-list pb-10">
                                     <ul>
