@@ -1,6 +1,12 @@
 <?php include_once 'components/head.php'; ?>
 
 <body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDFHPVNB" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <!-- <div class="preloader"></div> -->
 
     <!-- back to top start -->
@@ -113,11 +119,12 @@
                 </div>
                 <div class="sidebar__social">
                     <ul>
-                         <li><a href="www.linkedin.com/company/tarcontainer"><i class="fa-brands fa-linkedin"></i></a></li>
-                         <li><a href="www.facebook.com/tarcontainer"><i class="fa-brands fa-facebook"></i></a></li>
-                         <li><a href="www.youtube.com/tarcontainer"><i class="fa-brands fa-youtube"></i></a></li>
-                         <li><a href="www.instagram.com/tarcontainer"><i class="fa-brands fa-instagram"></i></a></li>
-                         <li><a href="www.twitter.com/tarcontainer"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li><a href="www.linkedin.com/company/tarcontainer"><i class="fa-brands fa-linkedin"></i></a>
+                        </li>
+                        <li><a href="www.facebook.com/tarcontainer"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li><a href="www.youtube.com/tarcontainer"><i class="fa-brands fa-youtube"></i></a></li>
+                        <li><a href="www.instagram.com/tarcontainer"><i class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href="www.twitter.com/tarcontainer"><i class="fa-brands fa-twitter"></i></a></li>
                     </ul>
                 </div>
             </div>
