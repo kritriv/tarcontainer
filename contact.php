@@ -33,7 +33,7 @@ include_once 'components/header.php'; ?>
                         <div class="contact__icon mb-35">
                             <i class="fal fa-envelope-open-text"></i>
                         </div>
-                        <h5 class="contact__title mb-25">Email Address</h5>
+                        <p class="contact__title mb-25">Email Address</p>
                         <div class="contact__text">
                             <p><a href="mailto:info@tarcontainer.com"><span>info@tarcontainer.com</span></a></p>
                             <p><a href="mailto:sales@tarcontainer.com"><span>sales@tarcontainer.com</span></a></p>
@@ -49,7 +49,7 @@ include_once 'components/header.php'; ?>
                         <div class="contact__icon mb-35">
                             <i class="fa-light fa-phone"></i>
                         </div>
-                        <h5 class="contact__title mb-25">Phone Number</h5>
+                        <p class="contact__title mb-25">Phone Number</p>
                         <div class="contact__text">
                             <p><a href="tel:+918448996050">+91 8448996050</a></p>
                             <p><a href="tel:+918448996051">+91 8448996051</a></p>
@@ -65,7 +65,7 @@ include_once 'components/header.php'; ?>
                         <div class="contact__icon mb-35">
                             <i class="fa-light fa-map-location-dot"></i>
                         </div>
-                        <h5 class="contact__title mb-25">Office Address</h5>
+                        <p class="contact__title mb-25">Office Address</p>
                         <div class="contact__text">
                             <p><a href="https://maps.app.goo.gl/DSD7Ykgihi4BR87h6" target="blank">D-5, Site–B, UPSIDC
                                     Industrial Area, Surajpur, Greater Noida, Uttar Pradesh 201306</a></p>
@@ -81,7 +81,7 @@ include_once 'components/header.php'; ?>
                         <div class="contact__icon mb-35">
                             <i class="fa-light fa-bullseye-arrow"></i>
                         </div>
-                        <h5 class="contact__title mb-25">Social Connect</h5>
+                        <p class="contact__title mb-25">Social Connect</p>
                         <div class="contact__social mt-30">
                             <a href="www.linkedin.com/company/tarcontainer"><i class="fa-brands fa-linkedin"></i></a>
                             <a href="www.facebook.com/tarcontainer"><i class="fa-brands fa-facebook"></i></a>
@@ -153,7 +153,7 @@ include_once 'components/header.php'; ?>
                                             href="contact.html">Terms &amp; Conditions</a></label>
                                 </div>
                                 <div class="form-submit text-center">
-                                    <button class="tp-btn" type="submit">Submit Request</button>
+                                    <button class="tp-btn" type="submit">Submit</button>
                                 </div>
                                 <p class="ajax-response"></p>
                             </form>
@@ -168,7 +168,7 @@ include_once 'components/header.php'; ?>
     <!-- contact__map start -->
     <section class="contact__map">
         <div class="contact__map-wrap">
-            <iframe id="gmap_canvas"
+            <iframe id="gmap_canvas" title="map"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.0365622140334!2d77.4959656754963!3d28.50854767573265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cee4d55494b61%3A0x506e48711cdb960e!2sTar%20Parking%20(SHAIL%20GROUP)!5e0!3m2!1sen!2sin!4v1711951960098!5m2!1sen!2sin"></iframe>
             <div class="contact__map-icon">
                 <i class="fa-solid fa-location-dot"></i>

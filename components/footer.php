@@ -117,10 +117,10 @@ function showMaintenanceAlert() {
     alert(
         "We apologize for the inconvenience, but our website is currently undergoing maintenance. Please Drop Message till that!");
     window.location.href = "contact.php";
+    encodeURIComponent(DataTransfer.arguments.DataTransfer.alert.location.href)
 }
 </script>
 <!-- JS here -->
-<script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script src="assets/js/vendor/jquery.js"></script>
 <script src="assets/js/vendor/waypoints.js"></script>
 <script src="assets/js/bootstrap-bundle.js"></script>

@@ -45,8 +45,7 @@
                         </div>
                     </div>
                     <div class="side-menu-icon d-lg-none text-end">
-                        <a href="javascript:void(0)" class="info-toggle-btn f-right sidebar-toggle-btn"><i
-                                class="fal fa-bars"></i></a>
+                        <a href="#" class="info-toggle-btn f-right sidebar-toggle-btn"><i class="fal fa-bars"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 d-none d-lg-block">
@@ -71,7 +70,7 @@
         <div class="sidebar__wrapper">
             <div class="sidebar__close">
                 <button class="sidebar__close-btn" id="sidebar__close-btn">
-                    <i class="fal fa-times"></i>
+                    <i class="fal fa-times">.</i>
                 </button>
             </div>
             <div class="sidebar__content">
@@ -83,7 +82,7 @@
                 <div class="sidebar__search mb-25">
                     <form action="#">
                         <input type="text" placeholder="What are you searching for?">
-                        <button type="submit"><i class="far fa-search"></i></button>
+                        <button type="submit"><i class="far fa-search">.</i></button>
                     </form>
                 </div>
                 <div class="mobile-menu fix"></div>
