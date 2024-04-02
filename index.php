@@ -1,7 +1,6 @@
 <?php include_once 'components/header.php'; ?>
 
 <main>
-
     <!-- slider-area-start  -->
     <section class="slider-area fix">
         <div class="swiper main-slider swiper-container swiper-container-fade">
@@ -12,8 +11,26 @@
                         <div class="row ">
                             <div class="col-lg-12">
                                 <div class="slider-contant mt-25">
-                                    <span data-animation="fadeInUp" data-delay=".3s">Container </span>
-                                    <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Sites Shed</h2>
+                                    <span data-animation="fadeInUp" data-delay=".3s"> Home</span>
+                                    <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
+                                    <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                                class="fal fa-angle-right"></i></a>
+                                        <a href="contact.php" class="tp-btn-2">Get Quote</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-slider sliderm-height p-relative swiper-slide">
+                    <div class="slide-bg" data-background="assets/img/product/container_office_01.jpg"></div>
+                    <div class="container">
+                        <div class="row ">
+                            <div class="col-lg-12">
+                                <div class="slider-contant mt-25">
+                                    <span data-animation="fadeInUp" data-delay=".3s">Office</span>
+                                    <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
                                         <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
                                                 class="fal fa-angle-right"></i></a>
@@ -31,9 +48,27 @@
                             <div class="col-lg-12">
                                 <div class="slider-contant mt-25">
                                     <span class="slider-button" data-animation="fadeInUp"
-                                        data-delay=".3s">Industrial</span>
-                                    <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Shipping
-                                        Container</h2>
+                                        data-delay=".3s">Shipping</span>
+                                    <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
+                                    <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                                class="fal fa-angle-right"></i></a>
+                                        <a href="contact.php" class="tp-btn-2">Get Quote</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-slider sliderm-height p-relative swiper-slide">
+                    <div class="slide-bg" data-background="assets/img/product/container_mobile_01.jpg"></div>
+                    <div class="container">
+                        <div class="row ">
+                            <div class="col-lg-12">
+                                <div class="slider-contant mt-25">
+                                    <span class="slider-button" data-animation="fadeInUp"
+                                        data-delay=".3s">Mobile</span>
+                                    <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
                                         <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
                                                 class="fal fa-angle-right"></i></a>
@@ -64,7 +99,18 @@
                             </div>
                             <div class="sm-services__text">
                                 <span>Service 01</span>
-                                <h4>Sites Shed Container</h4>
+                                <h4>Container Homes</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="sm-button">
+                            <div class="sm-services__icon">
+                                <i class="flaticon-warehouse"></i>
+                            </div>
+                            <div class="sm-services__text">
+                                <span>Service 02</span>
+                                <h4>Office Container</h4>
                             </div>
                         </div>
                     </div>
@@ -74,8 +120,19 @@
                                 <i class="flaticon-container"></i>
                             </div>
                             <div class="sm-services__text">
-                                <span>Service 02</span>
+                                <span>Service 03</span>
                                 <h4>Shipping Container</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="sm-button">
+                            <div class="sm-services__icon">
+                                <i class="flaticon-warehouse"></i>
+                            </div>
+                            <div class="sm-services__text">
+                                <span>Service 04</span>
+                                <h4>Mobile Container</h4>
                             </div>
                         </div>
                     </div>
@@ -157,10 +214,24 @@
                     </div>
                 </div>
                 <div class="col-xl-6">
-                    <div class="services__slider">
-                        <div class="services__wrapper row gap-5">
-                            <div class="single-services col-md-4 ">
-                                <h5>Site Sheds Containers</h5>
+                    <div class="services__slider swiper-container">
+                        <div class="services__wrapper swiper-wrapper">
+                            <div class="single-services swiper-slide">
+                                <h5>Home Containers</h5>
+                                <div class="services-list pb-10">
+                                    <ul>
+                                        <li><span>20ft Lunch Room</span></li>
+                                        <li><span>20ft Change Room</span></li>
+                                        <li><span>20ft Crib Room</span></li>
+                                        <li><span>20ft Portable First Aid Room</span></li>
+                                    </ul>
+                                </div>
+                                <div class="sr-button">
+                                    <a href="#" onclick="showMaintenanceAlert()">Many More</a>
+                                </div>
+                            </div>
+                            <div class="single-services swiper-slide">
+                                <h5>Office Containers</h5>
                                 <div class="services-list pb-10">
                                     <ul>
                                         <li><span>10ft Site Office</span></li>
@@ -175,7 +246,7 @@
                                     <a href="#" onclick="showMaintenanceAlert()">Many More</a>
                                 </div>
                             </div>
-                            <div class="single-services col-md-4">
+                            <div class="single-services swiper-slide">
                                 <h5>Shipping Containers</h5>
                                 <div class="services-list pb-10">
                                     <ul>
@@ -185,6 +256,20 @@
                                         <li><span>20ft Side Opening Shipping Container</span></li>
                                         <li><span>40ft Shipping Container</span></li>
                                         <li><span>240ft High Cube Container</span></li>
+                                    </ul>
+                                </div>
+                                <div class="sr-button">
+                                    <a href="#" onclick="showMaintenanceAlert()">Many More</a>
+                                </div>
+                            </div>
+                            <div class="single-services swiper-slide">
+                                <h5>Mobile Containers</h5>
+                                <div class="services-list pb-10">
+                                    <ul>
+                                        <li><span>20ft Cafe Container</span></li>
+                                        <li><span>20ft Restaurant Container</span></li>
+                                        <li><span>Mobile Home Coontainer</span></li>
+                                        <li><span>Mobile Office Coontainer</span></li>
                                     </ul>
                                 </div>
                                 <div class="sr-button">
@@ -214,10 +299,10 @@
                                 <div class="slide-border"></div>
                                 <div class="sd-content">
                                     <span class="sd-meta">Industry, Manufacturing</span>
-                                    <h5><a href="#" onclick="showMaintenanceAlert()">Tar Parking</a></h5>
+                                    <!-- <h5><a href="#" onclick="showMaintenanceAlert()">Tar Parking</a></h5> -->
                                     <div class="project-info">
                                         <a href="#" onclick="showMaintenanceAlert()"><i class="fal fa-plus"></i></a>
-                                        <span><a href="#" onclick="showMaintenanceAlert()">Project Details</a></span>
+                                        <span><a href="#" onclick="showMaintenanceAlert()">View Sites</a></span>
                                     </div>
                                     <div class="sd-bg-icon">
                                         <i class="flaticon-industrial"></i>

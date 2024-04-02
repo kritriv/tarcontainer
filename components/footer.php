@@ -111,7 +111,8 @@
 
 <script>
     function showMaintenanceAlert() {
-        alert("We apologize for the inconvenience, but our website is currently undergoing maintenance. Please check back later.");
+        alert("We apologize for the inconvenience, but our website is currently undergoing maintenance. Please Drop Message till that!");
+        window.location.href = "contact.php";
     }
 </script>
 <!-- JS here -->
