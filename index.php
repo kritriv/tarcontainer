@@ -6,7 +6,7 @@
         <div class="swiper main-slider swiper-container swiper-container-fade">
             <div class="swiper-wrapper p-relative">
                 <div class="item-slider sliderm-height p-relative swiper-slide">
-                    <div class="slide-bg" data-background="assets/img/product/container_home_01.jpg"></div>
+                    <div class="slide-bg" data-background="assets/img/product/container_home_01.webp"></div>
                     <div class="container">
                         <div class="row ">
                             <div class="col-lg-12">
@@ -24,7 +24,7 @@
                     </div>
                 </div>
                 <div class="item-slider sliderm-height p-relative swiper-slide">
-                    <div class="slide-bg" data-background="assets/img/product/container_office_01.jpg"></div>
+                    <div class="slide-bg" data-background="assets/img/product/container_office_01.webp"></div>
                     <div class="container">
                         <div class="row ">
                             <div class="col-lg-12">
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="item-slider sliderm-height p-relative swiper-slide">
-                    <div class="slide-bg" data-background="assets/img/product/container_shipping_01.jpg"></div>
+                    <div class="slide-bg" data-background="assets/img/product/container_shipping_01.webp"></div>
                     <div class="container">
                         <div class="row ">
                             <div class="col-lg-12">
@@ -61,7 +61,7 @@
                     </div>
                 </div>
                 <div class="item-slider sliderm-height p-relative swiper-slide">
-                    <div class="slide-bg" data-background="assets/img/product/container_mobile_01.jpg"></div>
+                    <div class="slide-bg" data-background="assets/img/product/container_mobile_01.webp"></div>
                     <div class="container">
                         <div class="row ">
                             <div class="col-lg-12">
@@ -288,7 +288,7 @@
         <div class="banner__slider swiper-container">
             <div class="banner__wrapper swiper-wrapper">
                 <div class="sd-banner__item swiper-slide"
-                    data-background="assets/img/product/container_shipping_02.jpg">
+                    data-background="assets/img/product/container_shipping_02.webp">
                     <div class="container-0">
                         <div class="row g-0">
                             <div class="col-xl-3 banner-slide-height d-none d-xl-block">
@@ -350,7 +350,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="feature__images w-img mb-40">
-                        <img src="assets/img/product/container_home_02.jpg" alt="">
+                        <img src="assets/img/product/container_home_02.webp" alt="">
                         <div class="vide-button">
                             <a href="https://www.youtube.com/" class="popup-video"><i class="fa-solid fa-play"></i></a>
                         </div>

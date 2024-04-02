@@ -5,7 +5,7 @@ include_once 'components/header.php'; ?>
 <main>
     <!-- slider-area-start  -->
     <section class="page__title-area page__title-height page__title-overlay d-flex align-items-center"
-        data-background="assets/img/Contact/bg_image.jpg">
+        data-background="assets/img/Contact/bg_image.webp">
         <div class="container">
             <div class="row">
                 <div class="col-xxl-12">
