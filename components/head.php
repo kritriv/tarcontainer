@@ -20,6 +20,9 @@
     <!-- Place favicon.ico in the root directory -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.svg">
 
+    <!-- Google Id Verification -->
+    <meta name="google-site-verification" content="9xfB-mbfYiC4_kkKehbOpsyh5C6SEFtK2xmdx9IpqOQ" />
+    
     <!-- OG Tag -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Tar Container | Manufactures of Container Home & Shipping Container" />
