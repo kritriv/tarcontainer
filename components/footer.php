@@ -43,12 +43,14 @@
                 </div>
                 <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                     <div class="footer__widget mb-40">
-                        <h5 class="footer__widget-title">Our Services</h5>
+                        <h5 class="footer__widget-title">Our Products</h5>
                         <div class="footer__widget-content">
                             <div class="footer__links">
                                 <ul>
-                                    <li><a href="#" onclick="showMaintenanceAlert()">Sites Shed Container</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Home Container</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Office Container</a></li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Shipping Container</a></li>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Mobile Container</a></li>
                                 </ul>
                             </div>
                         </div>

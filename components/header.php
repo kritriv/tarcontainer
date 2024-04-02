@@ -36,7 +36,7 @@
                                     <li><a href="index.php">Home</a>
                                     </li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">About Us</a></li>
-                                    <li><a href="#" onclick="showMaintenanceAlert()">Services</a>
+                                    <li><a href="#" onclick="showMaintenanceAlert()">Products</a>
                                     </li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Blogs</a></li>
                                     <li><a href="contact.php">Contact</a></li>
