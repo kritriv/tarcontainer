@@ -66,8 +66,7 @@
                         <div class="row ">
                             <div class="col-lg-12">
                                 <div class="slider-contant mt-25">
-                                    <span class="slider-button" data-animation="fadeInUp"
-                                        data-delay=".3s">Mobile</span>
+                                    <span class="slider-button" data-animation="fadeInUp" data-delay=".3s">Mobile</span>
                                     <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
                                         <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i

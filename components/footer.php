@@ -71,10 +71,13 @@
                                 <div class="footer__social-info">
                                     <span>Social Network:</span>
                                     <div class="footer__social-icon">
-                                        <a href="www.linkedin.com/company/tarcontainer"><i class="fa-brands fa-linkedin"></i></a>
-                                        <a href="www.facebook.com/tarcontainer"><i class="fa-brands fa-facebook"></i></a>
+                                        <a href="www.linkedin.com/company/tarcontainer"><i
+                                                class="fa-brands fa-linkedin"></i></a>
+                                        <a href="www.facebook.com/tarcontainer"><i
+                                                class="fa-brands fa-facebook"></i></a>
                                         <a href="www.youtube.com/tarcontainer"><i class="fa-brands fa-youtube"></i></a>
-                                        <a href="www.instagram.com/tarcontainer"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="www.instagram.com/tarcontainer"><i
+                                                class="fa-brands fa-instagram"></i></a>
                                         <a href="www.twitter.com/tarcontainer"><i class="fa-brands fa-twitter"></i></a>
                                     </div>
                                 </div>
@@ -110,10 +113,11 @@
 <!-- footer end -->
 
 <script>
-    function showMaintenanceAlert() {
-        alert("We apologize for the inconvenience, but our website is currently undergoing maintenance. Please Drop Message till that!");
-        window.location.href = "contact.php";
-    }
+function showMaintenanceAlert() {
+    alert(
+        "We apologize for the inconvenience, but our website is currently undergoing maintenance. Please Drop Message till that!");
+    window.location.href = "contact.php";
+}
 </script>
 <!-- JS here -->
 <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>

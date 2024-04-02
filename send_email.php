@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         exit;
     }
 
-    $recipient = "vishalsaraiwal68@gmail.com";
+    $recipient = "info@tarcontainer.com";
     $subject = "Tar Container Query from Website of $name";
 
     $email_content = "Name: $name\n";
@@ -30,4 +30,3 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     http_response_code(403);
     echo "There was a problem with your submission. Please try again.";
 }
-?>
