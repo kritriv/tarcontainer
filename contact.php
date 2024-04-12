@@ -12,7 +12,7 @@ include_once 'components/header.php'; ?>
                     <div class="page__title-wrapper mt-100">
                         <div class="breadcrumb-menu">
                             <ul>
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li><span>Contact</span></li>
                             </ul>
                         </div>
@@ -68,7 +68,8 @@ include_once 'components/header.php'; ?>
                         <p class="contact__title mb-25">Office Address</p>
                         <div class="contact__text">
                             <p><a href="https://maps.app.goo.gl/DSD7Ykgihi4BR87h6" target="blank">D-5, Site–B, UPSIDC
-                                    Industrial Area, Surajpur, Greater Noida, Uttar Pradesh 201306</a></p>
+                                    Industrial Area, Surajpur, Greater Noida, Uttar Pradesh 201306</a></p> <br>
+                            <p><b>International Offices:</b> Romania, London, Italy, Singapore, Jordon</p>
                         </div>
                         <div class="contact__button mt-30">
                             <a href="https://maps.app.goo.gl/DSD7Ykgihi4BR87h6" target="blank"
@@ -83,11 +84,11 @@ include_once 'components/header.php'; ?>
                         </div>
                         <p class="contact__title mb-25">Social Connect</p>
                         <div class="contact__social mt-30">
-                            <a href="www.linkedin.com/company/tarcontainer"><i class="fa-brands fa-linkedin"></i></a>
-                            <a href="www.facebook.com/tarcontainer"><i class="fa-brands fa-facebook"></i></a>
-                            <a href="www.youtube.com/tarcontainer"><i class="fa-brands fa-youtube"></i></a>
-                            <a href="www.instagram.com/tarcontainer"><i class="fa-brands fa-instagram"></i></a>
-                            <a href="www.twitter.com/tarcontainer"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://www.linkedin.com/company/tar-container" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://www.facebook.com/tarcontainers" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://www.youtube.com/tarcontainer" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/tarcontainer" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="https://www.twitter.com/tarcontainer" target="_blank"><i class="fa-brands fa-twitter"></i></a>
                         </div>
                     </div>
                 </div>

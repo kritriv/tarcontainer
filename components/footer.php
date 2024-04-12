@@ -6,7 +6,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4">
                     <div class="footer__widget mb-40">
                         <div class="footer__logo">
-                            <a href="index.php"><img src="assets/img/logo/logo_white.svg" alt=""></a>
+                            <a href="/"><img src="assets/img/logo/logo_white.svg" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -20,7 +20,7 @@
                                     <li><a href="#" onclick="showMaintenanceAlert()">Services</a></li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Our Blog</a></li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Privacy Policy</a></li>
-                                    <li><a href="contact.php">Contact Us</a></li>
+                                    <li><a href="/contact">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -32,7 +32,7 @@
                         <div class="footer__widget-content">
                             <div class="footer__links">
                                 <ul>
-                                    <li><a href="contact.php">Get Quote</a></li>
+                                    <li><a href="/contact">Get Quote</a></li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Mission</a></li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Vision</a></li>
                                     <li><a href="#testimonial">Testimonials</a></li>
@@ -73,14 +73,14 @@
                                 <div class="footer__social-info">
                                     <span>Social Network:</span>
                                     <div class="footer__social-icon">
-                                        <a href="www.linkedin.com/company/tarcontainer"><i
-                                                class="fa-brands fa-linkedin"></i></a>
-                                        <a href="www.facebook.com/tarcontainer"><i
-                                                class="fa-brands fa-facebook"></i></a>
-                                        <a href="www.youtube.com/tarcontainer"><i class="fa-brands fa-youtube"></i></a>
-                                        <a href="www.instagram.com/tarcontainer"><i
+                                        <a href="https://www.linkedin.com/company/tar-container"><i
+                                                class="fa-brands fa-linkedin" target="_blank"></i></a>
+                                        <a href="https://www.facebook.com/tarcontainers"><i
+                                                class="fa-brands fa-facebook" target="_blank"></i></a>
+                                        <a href="https://.youtube.com/tarcontainer" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                                        <a href="https://www.instagram.com/tarcontainer" target="_blank"><i
                                                 class="fa-brands fa-instagram"></i></a>
-                                        <a href="www.twitter.com/tarcontainer"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="https://www.twitter.com/tarcontainer" target="_blank"><i class="fa-brands fa-twitter"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -92,13 +92,13 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                         <div class="footer__copyright-text">
-                            <p>Copyright<a href="index.php"> © Tar Container</a> 2024. All Rights Reserved</p>
+                            <p>Copyright<a href="/"> © Tar Container</a> 2024. All Rights Reserved</p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                         <div class="footer__copyright-links text-sm-end">
                             <a href="#" onclick="showMaintenanceAlert()">About Us</a>
-                            <a href="contact.php">Contact </a>
+                            <a href="/contact">Contact </a>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
 function showMaintenanceAlert() {
     alert(
         "We apologize for the inconvenience, but our website is currently undergoing maintenance. Please Drop Message till that!");
-    window.location.href = "contact.php";
+    window.location.href = "/contact";
     encodeURIComponent(DataTransfer.arguments.DataTransfer.alert.location.href)
 }
 </script>

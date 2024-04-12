@@ -14,9 +14,9 @@
                                     <span data-animation="fadeInUp" data-delay=".3s"> Home</span>
                                     <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Explore <i
                                                 class="fal fa-angle-right"></i></a>
-                                        <a href="contact.php" class="tp-btn-2">Get Quote</a>
+                                        <a href="/contact" class="tp-btn-2">Get Quote</a>
                                     </div>
                                 </div>
                             </div>
@@ -32,9 +32,9 @@
                                     <span data-animation="fadeInUp" data-delay=".3s">Office</span>
                                     <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Explore <i
                                                 class="fal fa-angle-right"></i></a>
-                                        <a href="contact.php" class="tp-btn-2">Get Quote</a>
+                                        <a href="/contact" class="tp-btn-2">Get Quote</a>
                                     </div>
                                 </div>
                             </div>
@@ -51,9 +51,9 @@
                                         data-delay=".3s">Shipping</span>
                                     <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Explore <i
                                                 class="fal fa-angle-right"></i></a>
-                                        <a href="contact.php" class="tp-btn-2">Get Quote</a>
+                                        <a href="/contact" class="tp-btn-2">Get Quote</a>
                                     </div>
                                 </div>
                             </div>
@@ -69,9 +69,9 @@
                                     <span class="slider-button" data-animation="fadeInUp" data-delay=".3s">Mobile</span>
                                     <h2 class="slider-title" data-animation="fadeInUp" data-delay=".6s">Containers</h2>
                                     <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Expore <i
+                                        <a href="#" class="tp-btn mr-30" onclick="showMaintenanceAlert()">Explore <i
                                                 class="fal fa-angle-right"></i></a>
-                                        <a href="contact.php" class="tp-btn-2">Get Quote</a>
+                                        <a href="/contact" class="tp-btn-2">Get Quote</a>
                                     </div>
                                 </div>
                             </div>
@@ -208,7 +208,7 @@
                             sustainable container solutions, driving innovation, and fostering a global community
                             committed to environmental stewardship and excellence.</p>
                         <div class="ab-button mb-30">
-                            <a href="contact.php" class="tp-btn-ts">Get In Touch <i class="fal fa-angle-right"></i></a>
+                            <a href="/contact" class="tp-btn-ts">Get In Touch <i class="fal fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -468,11 +468,11 @@
                                     </div>
                                     <div class="process__list-content">
                                         <span>Process 01</span>
-                                        <h5><a href="contact.php">Discuss About Project</a></h5>
+                                        <h5><a href="/contact">Discuss About Project</a></h5>
                                     </div>
                                 </div>
                                 <div class="process__list-sp-icon">
-                                    <a href="contact.php"><i class="fa-light fa-arrow-right-long"></i></a>
+                                    <a href="/contact"><i class="fa-light fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                             <div class="process__list-item mb-30">
@@ -482,11 +482,11 @@
                                     </div>
                                     <div class="process__list-content">
                                         <span>Process 02</span>
-                                        <h5><a href="contact.php">Get Quote</a></h5>
+                                        <h5><a href="/contact">Get Quote</a></h5>
                                     </div>
                                 </div>
                                 <div class="process__list-sp-icon">
-                                    <a href="contact.php"><i class="fa-light fa-arrow-right-long"></i></a>
+                                    <a href="/contact"><i class="fa-light fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                             <div class="process__list-item mb-30">
@@ -496,11 +496,11 @@
                                     </div>
                                     <div class="process__list-content">
                                         <span>Process 03</span>
-                                        <h5><a href="contact.php">Manufacturing & Installation</a></h5>
+                                        <h5><a href="/contact">Manufacturing & Installation</a></h5>
                                     </div>
                                 </div>
                                 <div class="process__list-sp-icon">
-                                    <a href="contact.php"><i class="fa-light fa-arrow-right-long"></i></a>
+                                    <a href="/contact"><i class="fa-light fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>

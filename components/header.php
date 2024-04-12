@@ -24,7 +24,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                     <div class="logo-area">
                         <div class="logo">
-                            <a href="index.php"><img src="assets/img/logo/logo_white.svg" alt=""></a>
+                            <a href="/"><img src="assets/img/logo/logo_white.svg" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -33,13 +33,13 @@
                         <div class="main-menu">
                             <nav id="mobile-menu">
                                 <ul>
-                                    <li><a href="index.php">Home</a>
+                                    <li><a href="/">Home</a>
                                     </li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">About Us</a></li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Products</a>
                                     </li>
                                     <li><a href="#" onclick="showMaintenanceAlert()">Blogs</a></li>
-                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="/contact">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -52,7 +52,7 @@
                     <div class="header-info f-right">
                         <div class="info-item info-item-right">
                             <span>Phone Number</span>
-                            <h5><a href="tel:+918448996050">+91 8448996050</a></h5>
+                            <h5><a href="tel:+918448996051">+91 8448996051</a></h5>
                         </div>
                         <div class="info-item">
                             <span>Free Consultancy</span>
@@ -75,7 +75,7 @@
             </div>
             <div class="sidebar__content">
                 <div class="sidebar__logo mb-40">
-                    <a href="index.php">
+                    <a href="/">
                         <img src="assets/img/logo/logo_slide.svg" alt="logo">
                     </a>
                 </div>
@@ -103,7 +103,7 @@
                                 <i class="far fa-phone"></i>
                             </div>
                             <div class="sidebar__contact-text">
-                                <a href="tel:+918448996050">+91 8448996050</a>
+                                <a href="tel:+918448996051">+91 8448996051</a>
                             </div>
                         </li>
                         <li class="d-flex align-items-center">
