@@ -24,7 +24,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                     <div class="logo-area">
                         <div class="logo">
-                            <a href="/"><img src="assets/img/logo/logo_white.svg" alt=""></a>
+                            <a href="/"><img src="assets/img/logo/logo_main.svg" alt="" width="95%"></a>
                         </div>
                     </div>
                 </div>

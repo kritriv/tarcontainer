@@ -1953,7 +1953,7 @@ input[type=color] {
 .logo {
   width: 180px;
   height: 100px;
-  background-color: var(--tp-theme-1);
+  /* background-color: var(--tp-theme-1); */
   display: flex;
   justify-content: center;
   align-items: center;
